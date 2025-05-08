@@ -1,0 +1,29 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.env
+.venv/
+venv/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# System
+Thumbs.db
+
+# General
+*.swp
